@@ -4,7 +4,8 @@ import java.util.ArrayList;
 
 public class ArrayList2 {
 	
-		// In Java, ArrayList is one of the most widely used classes from.
+			// Adding new comment
+			// In Java, ArrayList is one of the most widely used classes from.
 			// the Collections framework. It provides a dynamic array, 
 			// which means you can add or remove items from it after it's been created.
 			
